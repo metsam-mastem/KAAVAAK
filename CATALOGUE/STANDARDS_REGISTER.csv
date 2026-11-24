@@ -1,0 +1,33 @@
+standard_id,issuer_or_authority,designation_or_family,domain,applicability,access_status,verification_note
+STD-FAA-23,FAA,14 CFR Part 23,Normal category airplanes,Fixed-wing civil aircraft,Public regulation,Confirm current eCFR text and amendment status
+STD-FAA-25,FAA,14 CFR Part 25,Transport category airplanes,Transport fixed-wing,Public regulation,Confirm current eCFR text and amendment status
+STD-FAA-27,FAA,14 CFR Part 27,Normal category rotorcraft,Rotorcraft,Public regulation,Confirm current eCFR text and amendment status
+STD-FAA-29,FAA,14 CFR Part 29,Transport category rotorcraft,Rotorcraft,Public regulation,Confirm current eCFR text and amendment status
+STD-FAA-21,FAA,14 CFR Part 21,Certification procedures and products/parts,Design and production organizations,Public regulation,Read with applicable FAA orders and guidance
+STD-FAA-43,FAA,14 CFR Part 43,Maintenance preventive maintenance rebuilding and alteration,Civil aircraft maintenance,Public regulation,Applicability exceptions exist
+STD-FAA-65,FAA,14 CFR Part 65,Certification personnel other than flight crewmembers,Maintenance and inspection personnel,Public regulation,Check ratings and privileges
+STD-FAA-91,FAA,14 CFR Part 91,General operating and flight rules,Civil operations,Public regulation,Not a design approval standard
+STD-FAA-121,FAA,14 CFR Part 121,Operating requirements domestic flag and supplemental operations,Air carriers,Public regulation,Operational rule
+STD-FAA-145,FAA,14 CFR Part 145,Repair stations,Maintenance organizations,Public regulation,Operational/organizational approval
+STD-EASA-21,EASA,Part-21 Initial Airworthiness,Design and production,EU civil products,Official rules / Easy Access Rules,Check current consolidated rule
+STD-EASA-66,EASA,Part-66 Aircraft Maintenance Licence,Maintenance personnel,EU civil maintenance,Official rules / Easy Access Rules,Check current rule and category
+STD-EASA-145,EASA,Part-145 Maintenance Organisation Approval,Maintenance organizations,EU civil maintenance,Official rules / Easy Access Rules,Check current rule and AMC/GM
+STD-EASA-147,EASA,Part-147 Maintenance Training Organisations,Training organizations,EU civil maintenance training,Official rules / Easy Access Rules,Check current rule and AMC/GM
+STD-EASA-CS23,EASA,CS-23,Normal-category aeroplanes,Fixed-wing,Free Easy Access Rules PDF/XML page,Amendment and AMC/GM issue must be checked
+STD-EASA-CS25,EASA,CS-25,Large aeroplanes,Transport fixed-wing,Easy Access Rules catalogue,Verify current amendment and access format
+STD-EASA-CS27,EASA,CS-27,Small rotorcraft,Rotorcraft,Easy Access Rules catalogue,Verify current amendment and access format
+STD-EASA-CS29,EASA,CS-29,Large rotorcraft,Rotorcraft,Easy Access Rules catalogue,Verify current amendment and access format
+STD-EASA-UAS,EASA,UAS rules and Easy Access Rules,Unmanned aircraft systems,UAS,Free PDF/XML where offered,Verify category and current revision
+STD-ICAO-ANNEX,ICAO,Annexes and SARPs,International aviation standards,International civil aviation,Restricted or paid depending document,Copyrighted; official access route required
+STD-RTCA-DO178C,RTCA,DO-178C,Airborne software assurance,Avionics software,Commercial / controlled access,Do not mirror; maintain bibliographic record only
+STD-RTCA-DO254,RTCA,DO-254,Airborne electronic hardware assurance,Avionics hardware,Commercial / controlled access,Do not mirror; maintain bibliographic record only
+STD-RTCA-DO160,RTCA,DO-160 environmental conditions and test procedures,Environmental qualification,Airborne equipment,Commercial / controlled access,Check revision such as DO-160G and applicable supplements
+STD-RTCA-DO326A,RTCA,DO-326A airborne systems security process,Aircraft cybersecurity,Airborne systems,Commercial / controlled access,Check associated DO-356A and DO-355 guidance
+STD-SAE-ARP4754,SAE,ARP4754B development of civil aircraft and systems,System development assurance,Aircraft systems,Commercial / controlled access,Check associated ARP4761A and authority guidance
+STD-SAE-ARP4761,SAE,ARP4761A safety assessment process,System safety,Aircraft and systems,Commercial / controlled access,Check applicability and current revision
+STD-ARINC-429,ARINC,ARINC 429,Digital data bus,Avionics interfaces,Commercial / controlled access,Use licensed current edition
+STD-ARINC-664,ARINC,ARINC 664 Part 7 / AFDX,Aircraft data network,Integrated avionics,Commercial / controlled access,Use licensed current edition
+STD-MIL-1553,US DoD,MIL-STD-1553,Command/response data bus,Military avionics and selected systems,Public status varies by revision,Verify official ASSIST record and revision
+STD-AS9100,SAE International,AS9100 quality management system,Quality management,Aerospace organizations,Commercial standard,Check current revision and certification scheme
+STD-ECSS,ECSS,ECSS standards series,Space engineering and assurance,Space systems,Many documents publicly accessible,Check ECSS issue and project applicability
+STD-ISO-UAS,ISO,ISO 21384 series,Unmanned aircraft systems,UAS,Commercial / controlled access,Check national adoption and current part
